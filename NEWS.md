@@ -1,3 +1,16 @@
+# bayes4psy 1.2.2
+
+### New features and improvements
+Further vignettes and tests optimizations.
+Added references to the description.
+
+
+# bayes4psy 1.2.1
+
+### New features and improvements
+Vignettes optimizations.
+
+
 # bayes4psy 1.2.0
 
 ### New features and improvements

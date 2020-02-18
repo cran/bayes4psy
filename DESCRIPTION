@@ -1,7 +1,7 @@
 Package: bayes4psy
-Version: 1.2.0
+Version: 1.2.2
 Title: User Friendly Bayesian Data Analysis for Psychology
-Description: Contains several Bayesian models for data analysis of psychological tests. A user friendly interface for these models should enable students and researchers to perform professional level Bayesian data analysis without advanced knowledge in programming and Bayesian statistics.
+Description: Contains several Bayesian models for data analysis of psychological tests. A user friendly interface for these models should enable students and researchers to perform professional level Bayesian data analysis without advanced knowledge in programming and Bayesian statistics. This package is based on the Stan platform (Carpenter et el. 2017 <doi:10.18637/jss.v076.i01>).
 Authors@R: 
     c(person("Jure", "Demšar", , "jure.demsar@fri.uni-lj.si", c("cre", "aut")),
     person("Grega", "Repovš", , "grega.repovs@psy.ff.uni-lj.si", "aut"),
@@ -24,8 +24,10 @@ LinkingTo: StanHeaders (>= 2.17.2), rstan (>= 2.17.3), BH (>=
 SystemRequirements: GNU make
 VignetteBuilder: knitr
 NeedsCompilation: yes
-RoxygenNote: 6.1.1
-Packaged: 2019-12-13 20:48:06 UTC; Jure
+RoxygenNote: 7.0.2
+URL: https://github.com/bstatcomp/bayes4psy
+BugReports: https://github.com/bstatcomp/bayes4psy/issues
+Packaged: 2020-02-17 21:20:00 UTC; Jure
 Author: Jure Demšar [cre, aut],
   Grega Repovš [aut],
   Erik Štrumbelj [aut],
@@ -35,4 +37,4 @@ Author: Jure Demšar [cre, aut],
   Rasmus Baath [cph] (R/b_bootstrap.R)
 Maintainer: Jure Demšar <jure.demsar@fri.uni-lj.si>
 Repository: CRAN
-Date/Publication: 2019-12-13 23:20:13 UTC
+Date/Publication: 2020-02-18 14:10:09 UTC
