@@ -1,5 +1,17 @@
 # bayes4psy change log
 
+## bayes4psy 1.2.11
+
+Optimized building of RStan models.
+
+## bayes4psy 1.2.10
+
+Tidied up the README file.
+
+## bayes4psy 1.2.9
+
+Added funding information.
+
 ## bayes4psy 1.2.8
 
 Additional fixes required for newer versions of RStan.

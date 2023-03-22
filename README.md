@@ -1,6 +1,16 @@
-# bayes4psy
+# bayes4psy—User Friendly Bayesian Data Analysis for Psychology
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/bstatcomp/bayes4psy/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/bstatcomp/bayes4psy/actions/workflows/R-CMD-check.yaml)
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/bayes4psy?color=blue)](https://CRAN.R-project.org/package=bayes4psy)[![Downloads](http://cranlogs.r-pkg.org/badges/bayes4psy?color=blue)](https://CRAN.R-project.org/package=bayes4psy)
+<!-- badges: end -->
+
+## Authors
+
+Jure Demšar, Grega Repovš and Erik Štrumbelj
+
+* Faculty of Computer and Information Science, University of Ljubljana
+* MBLab, Department of Psychology, Faculty of Arts, University of Ljubljana
 
 ## The package
 
@@ -66,3 +76,7 @@ if (!require(devtools)) {
 }
 install_github("bstatcomp/bayes4psy")
 ```
+
+## Funding
+
+The research behind this software was partially funded by the Slovenian Research Agency (ARRS) through grants L1-7542 (Advancement of computationally intensive methods for efficient modern general-purpose statistical analysis and inference), P3-0338 (Physiological mechanisms of neurological disorders and diseases), J3-9264 (Decomposing cognition: working memory mechanism and representations), P5-0410 (Digitalization as driving force for sustainability of individuals, organizations, and society), and P5-0110 (Psychological and neuroscientific aspects of cognition).
